@@ -19,3 +19,7 @@ MyPersonal link collection for tools and more.
 ### Telemetry
 
 * Open source Application Performance Monitoring (APM) & Observability tool: https://github.com/SigNoz/signoz
+
+## Miscellaneous
+
+* https://h4ck1ng.google/
