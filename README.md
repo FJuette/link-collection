@@ -20,6 +20,10 @@ MyPersonal link collection for tools and more.
 
 ## Tools
 
+### Dev
+
+* A graphical Python profiler that provides a clear view of your application's execution while being both low-overhead and easy to use. https://functiontrace.com/
+
 ### Telemetry
 
 * Open source Application Performance Monitoring (APM) & Observability tool: https://github.com/SigNoz/signoz
