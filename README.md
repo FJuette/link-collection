@@ -32,3 +32,4 @@ MyPersonal link collection for tools and more.
 ## Miscellaneous
 
 * https://h4ck1ng.google/
+* Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device. https://joplinapp.org/
