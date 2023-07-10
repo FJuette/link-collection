@@ -12,6 +12,7 @@ MyPersonal link collection for tools and more.
 ### CSS
 
 * Lissom.CSS is a classless, minimalist, accessible, and themeable CSS framework that aims to address the issue of styling web pages.: https://lissomware.github.io/css/
+* A table that looks good on mobile and desktop. (using Tailwind.css) Example: https://many.pw/
 
 ## Images
 
@@ -20,7 +21,7 @@ MyPersonal link collection for tools and more.
 
 ## Tools
 
-### Dev
+### Python
 
 * A graphical Python profiler that provides a clear view of your application's execution while being both low-overhead and easy to use. https://functiontrace.com/
 
